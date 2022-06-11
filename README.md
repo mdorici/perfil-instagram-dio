@@ -5,7 +5,6 @@ Desafio proposto no Santander Bootcamp Fullstack Developer 2022, disponibilizado
 
 
 ### Foram utilizados:
-
 	HTML básico
 	CSS básico
 	Flexbox
